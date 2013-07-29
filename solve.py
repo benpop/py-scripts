@@ -1,8 +1,6 @@
 #!/usr/bin/env python
 
-
 __all__ = ['solve']
-
 
 from numbers import Number
 

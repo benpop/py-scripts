@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 '''Protect help method from broken pipe by encasing it
 in a try-except block.'''
 
